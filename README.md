@@ -49,13 +49,12 @@
 <ul>
 <li>Asst Profressor Kitsuchart Pasupa
 <ul>
-<li><a target="_blank" rel="noopener noreferrer" href="/compro-itkmitl/KitCash/blob/master/Pics/ksc.jpg"><img src="/compro-itkmitl/KitCash/raw/master/Image/ksc.jpg" alt="" style="max-width:100%;"></a></li>
+<li><a target="_blank" rel="noopener noreferrer" href="/PM25/blob/master/Image/pw.jpg.jpg"><img src="/Image/ksc.jpg" alt="" style="max-width:100%;"></a></li>
 </ul>
 </li>
 <li>Asst Profressor Panwit Tuwanut
 <ul>
-<li><a target="_blank" rel="noopener noreferrer" href="/PM25/blob/master/Image/pw.jpg.jpg"><img src="/PM25/Image/raw/master/Image/pw.jpg" alt="" style="max-width:100%;"></a></li>
-  
+<li><a target="_blank" rel="noopener noreferrer" href="/PM25/blob/master/Image/pw.jpg.jpg"><img src="Image/pw.jpg" alt="" style="max-width:100%;"></a></li>
 </ul>
 </li>
 </ul>
