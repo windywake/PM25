@@ -27,7 +27,7 @@
 <table>
 <thead>
 <tr>
-<th align="center">ESP8266 Wireless WiFi Arduino Shield ESP-13 Arduino Shield for Arduino Uno/ Arduino Mega</th>
+<th align="center">ESP8266 Wireless WiFi Arduino Shield ESP-13 </th>
 <th align="center">Arduino uno ProtoShield Mini Breadboard PCB + Mini Breadboard</th>
 <th align="center">Active Buzzer Module > 3.3 V</th>
 <th align="center">Jumper cable</th>
