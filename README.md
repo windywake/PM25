@@ -9,7 +9,7 @@
 <tr>
 <th align="center">SHARP GP2Y10 Dust Sensor PM2.5 module</th>
 <th align="center">Arduino Uno R3</th>
-<th align="center">USB Arduino cable a SMD Micro add port expansion</th>
+<th align="center">Micro USB Arduino cable Micro</th>
 <th align="center">AM2322 Aosong temperature sensor</th>
 <th align="center">TFT LCD Size 1.4 [128*128]<br>or Size 1.8 [128*160]"</th>
 </tr>
