@@ -49,7 +49,7 @@
 <ul>
 <li>Asst Profressor Kitsuchart Pasupa
 <ul>
-<li><a target="_blank" rel="noopener noreferrer" href="/PM25/blob/master/Image/ksc.jpg"><img src="/Image/ksc.jpg" alt="" style="max-width:100%;"></a></li>
+<li><a target="_blank" rel="noopener noreferrer" href="/Image/ksc.jpg"><img src="/Image/ksc.jpg" alt="" style="max-width:100%;"></a></li>
 </ul>
 </li>
 <li>Asst Profressor Panwit Tuwanut
