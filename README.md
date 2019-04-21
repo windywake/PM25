@@ -42,65 +42,6 @@
 </tr>
 </tbody>
 </table>
-<th>motor driver module</th>
-<th align="center">arduino uno ตัวที่ 1</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>out1</td>
-<td align="center">DC MOTOR +</td>
-</tr>
-<tr>
-<td>out2</td>
-<td align="center">DC MOTOR -</td>
-</tr>
-<tr>
-<td>out3</td>
-<td align="center">DC MOTOR +</td>
-</tr>
-<tr>
-<td>out4</td>
-<td align="center">DC MOTOR -</td>
-</tr>
-<tr>
-<td>5V</td>
-<td align="center">5V</td>
-</tr>
-<tr>
-<td>GND</td>
-<td align="center">GND และ รางถ่านขั้ว -</td>
-</tr>
-<tr>
-<td>12v</td>
-<td align="center">รางถ่านขั้ว +</td>
-</tr>
-<tr>
-<td>ENA</td>
-<td align="center">6</td>
-</tr>
-<tr>
-<td>IN1</td>
-<td align="center">3</td>
-</tr>
-<tr>
-<td>IN2</td>
-<td align="center">2</td>
-</tr>
-<tr>
-<td>IN3</td>
-<td align="center">4</td>
-</tr>
-<tr>
-<td>IN4</td>
-<td align="center">7</td>
-</tr>
-<tr>
-<td>ENB</td>
-<td align="center">5</td>
-</tr>
-</tbody>
-</table>
 <table>
 <thead>
 <tr>
