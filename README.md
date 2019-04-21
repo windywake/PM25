@@ -18,7 +18,7 @@
 <tr>
 <td align="center"><a align="center" href="/Image/rc01.jpg"><img src="/Image/rc01.jpg" width="200px" style="max-width:100%;"></a></td>
 <td align="center"><a align="center" href="/Image/rc02.jpg"><img src="/Image/rc02.jpg" width="200px" style="max-width:100%;"></a></td>
-<td align="center"><a align="center" href="/Image/rc03.png"><img src="/Image/rc03.png" width="200px" style="max-width:50%;"></a></td>
+<td align="center"><a align="center" href="/Image/rc03.png"><img src="/Image/rc03.png" width="200px" style="max-width:100%;"></a></td>
 <td align="center"><a align="center" href="/Image/rc04.jpg"><img src="/Image/rc04.jpg" width="200px" style="max-width:100%;"></a></td>
 <td align="center">v</a></td>
 </tr>
@@ -28,7 +28,7 @@
 <thead>
 <tr>
 <th align="center">ESP8266 Wireless WiFi Arduino Shield ESP-13 Arduino Shield for Arduino Uno/ Arduino Mega</th>
-<th align="center">Arduino uno ProtoShield Mini Breadboard PCB Prototype Arduion Uno Shield PCB UNO Prototype Shield + Mini Breadboard</th>
+<th align="center">Arduino uno ProtoShield Mini Breadboard PCB + Mini Breadboard</th>
 <th align="center">Active Buzzer Module > 3.3 V</th>
 <th align="center">Jumper cable</th>
 </tr>
