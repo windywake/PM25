@@ -71,7 +71,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href=""><img src="" alt="" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Image/thin.JPG"><img src="/Image/thin.JPG" alt="" style="max-width:100%;"></a></td>
 <td>Tiraphong</td>
 <td>Nantapan</td>
 <td><a href="https://github.com/ThinAstaroth">@ThinAstaroth</a></td>
