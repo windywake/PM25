@@ -71,14 +71,14 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Image/thin.JPG"><img src="/Image/thin.JPG" alt="" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Image/thin.JPG"><img src="/Image/thin.JPG" width="256"  height="318" style="max-width:100%;"></a></td>
 <td>Tiraphong</td>
 <td>Nantapan</td>
 <td><a href="https://github.com/ThinAstaroth">@ThinAstaroth</a></td>
 <td align="center">61070090</td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="Image/61070202.jpg"><img src="Image/61070202.jpg" alt="" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="Image/61070202.jpg"><img src="Image/61070202.jpg" width="300"  height="300" style="max-width:100%;"></a></td>
 <td>Wantana</td>
 <td>Monlucksa</td>
 <td><a href="https://github.com/it61070202">@61070202</a></td>
