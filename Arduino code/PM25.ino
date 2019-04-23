@@ -19,6 +19,10 @@ float dustDensity = 0;
 
 int BezzPin =  7;
 
+// ESP13 wifi
+#define WIFI_SSID       "DoitWiFi_Config"
+#define WIFI_PASSWORD   "12345678"
+
 // Color definitions
 #define BLACK   0x0000
 #define BLUE    0x001F
