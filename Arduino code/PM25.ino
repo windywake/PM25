@@ -23,6 +23,10 @@ int BezzPin =  7;
 #define WIFI_SSID       "DoitWiFi_Config"
 #define WIFI_PASSWORD   "12345678"
 
+// firebase
+#define FIREBASE_HOST "fir-592ea.firebaseio.com"
+#define FIREBASE_KEY "nshDkpXLCPmWkWjBULfHQGQ8TAholYZ14ABdMYD3"
+
 // Color definitions
 #define BLACK   0x0000
 #define BLUE    0x001F
@@ -42,6 +46,9 @@ TFT_ILI9163C tft = TFT_ILI9163C(10, 8, 9);
 void setup() {
   tft.begin();
   Serial.begin(9600);
+  
+  Firebase.begin(FIREBASE_HOST, FIREBASE_KEY);
+  
   while (!Serial) {
     delay(10); // hang out until serial port opens
   }
