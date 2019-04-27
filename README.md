@@ -69,55 +69,39 @@
 <th>Student ID number<br>学生の番号<br>รหัสนักศึกษา</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
-
-
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Image/thin.JPG"><img src="/Image/thin.JPG" width="256"  height="318" style="max-width:100%;"></a></td>
-<td>Tiraphong</td>
-<td>Nantapan</td>
-<td><a href="https://github.com/ThinAstaroth">@ThinAstaroth</a></td>
-<td align="center">61070090</td>
-
-
-</tr>
-<tr>
-
-
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="Image/61070202.jpg"><img src="Image/61070202.jpg" width="300"  height="300" style="max-width:100%;"></a></td>
-<td>Wantana</td>
-<td>Monlucksa</td>
-<td><a href="https://github.com/it61070202">@61070202</a></td>
-<td align="center">61070202</td>
-
-
-</tr>
-<tr>
-  
-  
-  
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="Image/61070194.jpg"><img src="Image/61070194.jpg" alt="" width="256"  height="456" style="max-width:100%;"></a></td>
-<td>Wanasin</td>
-<td>Muttasathean</td>
-<td><a href="https://github.com/Trity2543">@Trity2543</a></td>
-<td align="center">61070194</td>
-
-
-
-</tr>
-<tr>
-
-
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="/Image/61070050.jpg"><img src="/Image/61070050.jpg" width="300"  height="297" style="max-width:100%;"></a></td>
 <td>Nutnaree</td>
 <td>Rueangkajorn</td>
 <td><a href="https://github.com/sinennr">@sinennr</a></td>
 <td align="center">61070050</td>
-
-
+</tr>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Image/thin.JPG"><img src="/Image/thin.JPG" width="256"  height="318" style="max-width:100%;"></a></td>
+<td>Tiraphong</td>
+<td>Nantapan</td>
+<td><a href="https://github.com/ThinAstaroth">@ThinAstaroth</a></td>
+<td align="center">61070090</td>
+</tr>
+<tr> 
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="Image/61070194.jpg"><img src="Image/61070194.jpg" alt="" width="256"  height="456" style="max-width:100%;"></a></td>
+<td>Wanasin</td>
+<td>Muttasathean</td>
+<td><a href="https://github.com/Trity2543">@Trity2543</a></td>
+<td align="center">61070194</td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="Image/61070202.jpg"><img src="Image/61070202.jpg" width="300"  height="300" style="max-width:100%;"></a></td>
+<td>Wantana</td>
+<td>Monlucksa</td>
+<td><a href="https://github.com/it61070202">@61070202</a></td>
+<td align="center">61070202</td>
 </tr>
 </tbody>
 </table>
+
 <h1><a id="user-content-special-thanks" class="anchor" aria-hidden="true" href="#special-thanks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Special Thanks</h1>
 
 <table>
