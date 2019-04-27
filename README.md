@@ -111,7 +111,7 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="/Image/61070050.jpg"><img src="/Image/61070050.jpg" width="300"  height="297" style="max-width:100%;"></a></td>
 <td>Nutnaree</td>
 <td>Rueangkajorn</td>
-<td><a href="https://github.com/sinennr">@sinennr/a></td>
+<td><a href="https://github.com/sinennr">@sinennr</a></td>
 <td align="center">61070050</td>
 
 
