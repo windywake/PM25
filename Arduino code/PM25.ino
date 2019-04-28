@@ -21,11 +21,11 @@ float dustDensity = 0;
 
 int BezzPin =  7;
 
-// ESP13 wifi
+// Wifi Internet connection
 #define WIFI_SSID       "DoitWiFi_Config"
 #define WIFI_PASSWORD   "12345678"
 
-// firebase
+// firebase connection
 #define FIREBASE_HOST "fir-592ea.firebaseio.com"
 #define FIREBASE_KEY "nshDkpXLCPmWkWjBULfHQGQ8TAholYZ14ABdMYD3"
 
