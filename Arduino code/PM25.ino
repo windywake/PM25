@@ -3,6 +3,8 @@
 #include <TFT_ILI9163C.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_AM2320.h>
+#include <ESP8266WiFi.h>
+#include <FirebaseArduino.h>
 
 Adafruit_AM2320 am2320 = Adafruit_AM2320();
 
