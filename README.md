@@ -3,8 +3,11 @@
 <li>これは、コンピュータ プログラミングの のプロジェクト 06016315</li>
 <li>โปรเจคนี้ เป็นส่วนหนึ่งของรายวิชา คอมพิวเตอร์โปรแกรมมิ่ง 06016315</li>
 
-# บทคัดย่อ
-  เนื่องจากสภาพอากาศในอดีตส่งผลมาถึงปัจจุบันเราได้ประสบปัญหามลพิษทางอากาศ คือ การเกิดฝุ่นละอองขนาด เล็กมากหรือที่เรียกว่า "PM2.5" ที่ส่งผลกระทบต่อทางเดินหายใจเมื่อสูดดมเข้าไปและสามารถกิดดรคอื่นๆตามมาได้ ทางผู้จัดทำเลยทำโครงงานนีขึ้นมาโดยการจะนำ Microcontroller มามีส่วนร่วม โดยเราจะสร้างตัวตรวจจับ สภาพอากาศในแต่ล่ะแห่งว่ามีค่าสภาพอากาศเป็นอย่างไร มีค่าฝุ่นละอองน้อยสามารถทำกิจกรรมในที่โล่งแจ้งได้หรือ มีค่าฝุ่นละอองมากควรอยู่ภายในอาคารและสวมหน้ากากอนามัยเมื่อจำเป็นต้องอยู่ในที่โล่งแจ้ง
+# Abstract
+&emsp;Because of the weather in the past to the present, we have experienced the air pollution is to Dust very small or called "PM2.5"
+That affect the respiratory tract when inhaled, and can eat other diseases that followed The organizer made up by this project will bring Microcontroller took part, we create a Detect weather but of that the condition. How is the weather? A little dust can do in the open or not. The dust should stay indoors and wear a mask when you need to be in the open.<br>
+ &emsp;過去から現在までの天候のため、私たちは、大気汚染が非常に小さいか、吸入されたときに呼吸器に影響を与える“PM 2.5”と呼ばれていることを経験したし、このプロジェクトによって構成された主催者に従って他の病気を食べることができる他の病気は、マイクロコントローラをもたらすもたらす、我々は検出の天気を作成するが、その条件の。天気はどうですか。少しのほこりは、開いているか、そうすることができません。あなたが開いている必要があるとき、ほこりは屋内にとどまって、マスクを着なければなりません。<br>
+&emsp;เนื่องจากสภาพอากาศในอดีตส่งผลมาถึงปัจจุบันเราได้ประสบปัญหามลพิษทางอากาศ คือ การเกิดฝุ่นละอองขนาด เล็กมากหรือที่เรียกว่า "PM2.5" ที่ส่งผลกระทบต่อทางเดินหายใจเมื่อสูดดมเข้าไปและสามารถกิดโรคอื่นๆตามมาได้ ทางผู้จัดทำเลยทำโครงงานนี้ขึ้นมาโดยการจะนำ Microcontroller มามีส่วนร่วม โดยเราจะสร้างตัวตรวจจับ สภาพอากาศในแต่ล่ะแห่งว่ามีค่าสภาพอากาศเป็นอย่างไร มีค่าฝุ่นละอองน้อยสามารถทำกิจกรรมในที่โล่งแจ้งได้หรือ มีค่าฝุ่นละอองมากควรอยู่ภายในอาคารและสวมหน้ากากอนามัยเมื่อจำเป็นต้องอยู่ในที่โล่งแจ้ง<br>
 <h2><a id="user-content-required-components" class="anchor" aria-hidden="true" href="#required-components"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href=""><img src="" alt="" style="max-width:100%;"></a>Required Components</h2>
 <table>
 <thead>
