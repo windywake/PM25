@@ -21,11 +21,11 @@ float dustDensity = 0;
 
 int BezzPin =  7;
 
-// wifi
+// Wifi Internet connection
 #define WIFI_SSID "Demo-Test"
 #define WIFI_PASSWORD "99889000"
 
-// firebase
+// firebase connection
 #define FIREBASE_HOST "fir-592ea.firebaseio.com"
 #define FIREBASE_KEY "nshDkpXLCPmWkWjBULfHQGQ8TAholYZ14ABdMYD3" 
 
