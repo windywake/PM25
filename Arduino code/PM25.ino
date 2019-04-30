@@ -21,13 +21,13 @@ float dustDensity = 0;
 
 int BezzPin =  7;
 
-// Wifi Internet connection
-#define WIFI_SSID       "DoitWiFi_Config"
-#define WIFI_PASSWORD   "12345678"
+// wifi
+#define WIFI_SSID "Demo-Test"
+#define WIFI_PASSWORD "99889000"
 
-// firebase connection
+// firebase
 #define FIREBASE_HOST "fir-592ea.firebaseio.com"
-#define FIREBASE_KEY "nshDkpXLCPmWkWjBULfHQGQ8TAholYZ14ABdMYD3"
+#define FIREBASE_KEY "nshDkpXLCPmWkWjBULfHQGQ8TAholYZ14ABdMYD3" 
 
 // Color definitions
 #define BLACK   0x0000
@@ -48,7 +48,7 @@ TFT_ILI9163C tft = TFT_ILI9163C(10, 8, 9);
 void setup() {
   tft.begin();
   Serial.begin(9600);
-  
+
   Firebase.begin(FIREBASE_HOST, FIREBASE_KEY);
   
   while (!Serial) {
@@ -62,6 +62,8 @@ void setup() {
 }
 
 void loop(){
+  delay(1000);
+  
   digitalWrite(ledPower,LOW); // power on the LED
   delayMicroseconds(samplingTime);
   voMeasured = analogRead(measurePin); // read the dust value
