@@ -63,7 +63,7 @@ That affect the respiratory tract when inhaled, and can eat other diseases that 
  <li>FirebaseArduino.h</li>
 </ul>
 
-# Resutl
+# Result
 You can check the status online here.<br>
 あなたはここにオンライン状態を確認することができます。<br>
 สามารถเช็คสถานะออนไลน์ได้ที่นี่<br>
