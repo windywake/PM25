@@ -56,10 +56,11 @@ That affect the respiratory tract when inhaled, and can eat other diseases that 
 <ul>
 <li>SPI.h</li>
 <li>Adafruit_GFX.h</li>
-<li>LiquidCrystal_I2C.h</li>
-<li>Adafruit_Sensor.h</li>
-<li>SPI.h</li>
 <li>TFT_ILI9163C.h</li>
+<li>Adafruit_Sensor.h</li>
+<li>Adafruit_AM2320.h</li>
+<li>ESP8266WiFi.h</li>
+ <li>FirebaseArduino.h</li>
 </ul>
 
 # Resutl
