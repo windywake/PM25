@@ -52,7 +52,7 @@ That affect the respiratory tract when inhaled, and can eat other diseases that 
 
 <p><a target="_blank" rel="noopener noreferrer" href="/Image/replicapm25.png"><img src="/Image/replicapm25.png" alt="" style="max-width:100%;"></a></p>
 
-# Library-in-use
+# Library in use
 <ul>
 <li>SPI.h</li>
 <li>Adafruit_GFX.h</li>
