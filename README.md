@@ -114,7 +114,7 @@ https://fireboard.xyz/show--LddxE0YU3JoGkADjyL8.html<br>
 </tbody>
 </table>
 
-# special thanks
+# Special thanks
 
 <table>
 <thead>
