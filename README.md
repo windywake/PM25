@@ -8,7 +8,7 @@
 That affect the respiratory tract when inhaled, and can eat other diseases that followed The organizer made up by this project will bring Microcontroller took part, we create a Detect weather but of that the condition. How is the weather? A little dust can do in the open or not. The dust should stay indoors and wear a mask when you need to be in the open.<br>
  &emsp;過去から現在までの天候のため、私たちは、大気汚染が非常に小さいか、吸入されたときに呼吸器に影響を与える“PM 2.5”と呼ばれていることを経験したし、このプロジェクトによって構成された主催者に従って他の病気を食べることができる他の病気は、マイクロコントローラをもたらすもたらす、我々は検出の天気を作成するが、その条件の。天気はどうですか。少しのほこりは、開いているか、そうすることができません。あなたが開いている必要があるとき、ほこりは屋内にとどまって、マスクを着なければなりません。<br>
 &emsp;เนื่องจากสภาพอากาศในอดีตส่งผลมาถึงปัจจุบันเราได้ประสบปัญหามลพิษทางอากาศ คือ การเกิดฝุ่นละอองขนาด เล็กมากหรือที่เรียกว่า "PM2.5" ที่ส่งผลกระทบต่อทางเดินหายใจเมื่อสูดดมเข้าไปและสามารถกิดโรคอื่นๆตามมาได้ ทางผู้จัดทำเลยทำโครงงานนี้ขึ้นมาโดยการจะนำ Microcontroller มามีส่วนร่วม โดยเราจะสร้างตัวตรวจจับ สภาพอากาศในแต่ล่ะแห่งว่ามีค่าสภาพอากาศเป็นอย่างไร มีค่าฝุ่นละอองน้อยสามารถทำกิจกรรมในที่โล่งแจ้งได้หรือ มีค่าฝุ่นละอองมากควรอยู่ภายในอาคารและสวมหน้ากากอนามัยเมื่อจำเป็นต้องอยู่ในที่โล่งแจ้ง<br>
-# required-components 
+# Required-components 
 <table>
 <thead>
 <tr>
@@ -48,11 +48,11 @@ That affect the respiratory tract when inhaled, and can eat other diseases that 
 </tbody>
 </table>
 
-# board-connection
+# Board-connection
 
 <p><a target="_blank" rel="noopener noreferrer" href="/Image/replicapm25.png"><img src="/Image/replicapm25.png" alt="" style="max-width:100%;"></a></p>
 
-# library-in-use
+# Library-in-use
 <ul>
 <li>SPI.h</li>
 <li>Adafruit_GFX.h</li>
