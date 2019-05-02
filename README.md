@@ -67,7 +67,7 @@ That affect the respiratory tract when inhaled, and can eat other diseases that 
 You can check the status online here.<br>
 あなたはここにオンライン状態を確認することができます。<br>
 สามารถเช็คสถานะออนไลน์ได้ที่นี่<br>
-https://fireboard.xyz/show--LddxE0YU3JoGkADjyL8.html<br>
+<a href="https://fireboard.xyz/show--LddxE0YU3JoGkADjyL8.html">fireboard.xyz</a><p><br>
 <p><a target="_blank" rel="noopener noreferrer" href="Image/resutl.png"><img src="Image/resutl.png" alt="" style="max-width:100%;"></a></p>
 
 # Members
