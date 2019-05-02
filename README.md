@@ -136,4 +136,4 @@ https://fireboard.xyz/show--LddxE0YU3JoGkADjyL8.html<br>
 <h2>Faculty of Information Technology<br>情報技術学部<br>คณะเทคโนโลยีสารสนเทศ</h2>
 
 <h2> King Mongkut's Institute of Technology Ladkrabang<br>モンクット王工科大学ラートクラバン校<br>สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง </h2><br>
-<a target="_blank" rel="noopener noreferrer" href="/Image/it_kmitl_logo.jpg"><img src="/Image/it_kmitl_logo.jpg" awidth="300"  height="200" style="max-width:100%;">
+<a target="_blank" rel="noopener noreferrer" href="/Image/it_kmitl_logo.jpg"><img src="PM25/Image/it_kmitl_logo.jpg" awidth="300"  height="200" style="max-width:100%;">
