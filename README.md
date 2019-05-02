@@ -119,8 +119,8 @@ https://fireboard.xyz/show--LddxE0YU3JoGkADjyL8.html<br>
 <table>
 <thead>
 <tr>
-<th align="center" href="/Image/ksc.jpg"><img src="/Image/ksc.jpg" alt="" style="max-width:100%;"></a></th>
-<th align="center" href="Image/pw.jpg"><img src="Image/pw.jpg" alt="" style="max-width:100%;"></a></th>
+<th align="center" href="/Image/ksc.jpg"><img src="/Image/ksc.jpg" alt="" style="max-width:100%;"></th>
+<th align="center" href="Image/pw.jpg"><img src="Image/pw.jpg" alt="" style="max-width:100%;"></th>
 </tr>
 </thead>
 <tbody>
